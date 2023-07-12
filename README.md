@@ -3,7 +3,9 @@ microsoft internship project using azure services this is my final project
 
 https://black-glacier-060e5b010.3.azurestaticapps.net/
 
-Foodie blog website opportunity Expanding the revenue generation and building a stronger community can present significant opportunities for a food blog website. By capitalizing on these opportunities, the website can achieve growth, sustainability, and increased user satisfaction. Some specific opportunities include:
+Foodie blog website opportunity
+
+Expanding the revenue generation and building a stronger community can present significant opportunities for a food blog website. By capitalizing on these opportunities, the website can achieve growth, sustainability, and increased user satisfaction. Some specific opportunities include:
 
 1.Monetization Strategies: Implementing effective monetization strategies such as sponsored content, affiliate marketing, and advertisements can generate revenue for the website allows the blog to partner  businesses in the food industry,potential collaborations and sponsorships.
 
